@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamiecv
 - 👀 I’m interested in scalable architecture, performance and efficiency
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently learning Clojure and assembly
 - 💞️ I’m looking to collaborate on Kubernetes
 
 
